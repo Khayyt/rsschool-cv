@@ -14,7 +14,7 @@ I like to create something new, modern, something that can be useful for society
 
 ## Work Experience
 
-Don'git comt have work experience. I’m self-taught, and I do projects on lessons.
+Don't have work experience. I’m self-taught, and I do projects on lessons.
 
 ## Technical Skills
 
